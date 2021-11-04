@@ -1,9 +1,9 @@
 zeebe:
   client:
     cloud:
-      clusterId: 'your cluster id'
-      clientId: 'your client id'
-      clientSecret: 'your client secret'
+      clusterId: your cluster id
+      clientId: your client id
+      clientSecret: your client secret
     worker:
       defaultName: camunda-dmn-worker
       defaultType: DMN
